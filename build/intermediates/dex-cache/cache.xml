@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHANDAN\.android\build-cache\ae2ce1ecc06e4c86f675e5c9bdee1523e32bb81d\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="F:\acadgild_android\Android_Training\session_14\PermissionRequest\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_4925002ae93fb642849015fdcfee8ac63561ed8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHANDAN\.android\build-cache\3c237d62eb46dfb0bc5bf1ef9526aea7f101e5b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="F:\acadgild_android\Android_Training\session_14\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes_a9102597ea1fc304267622ada9d35d81a7ad046e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHANDAN\.android\build-cache\5ba67d80bf7993e3537135cf9270fc3050b0b29e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="F:\acadgild_android\Android_Training\session_14\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes_0b9368d43d9d8eee41b43e8ebfcd556b553a53b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHANDAN\.android\build-cache\9d51fd68bb2360452c7ef6fbcafad1ca590370b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="F:\acadgild_android\Android_Training\session_14\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes_2c7556f75d4716e76001c64380ed66cce25e36f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHANDAN\.android\build-cache\ae2ce1ecc06e4c86f675e5c9bdee1523e32bb81d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="F:\acadgild_android\Android_Training\session_14\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes_4c4554a4d3b4f1c464540c5d8b20fa97c83092ca.jar" />
+    </item>
+
+</items>
